@@ -10,5 +10,4 @@ For some more information on how to fork a repository, [check out our guide, "Fo
 
 Adding some cuttlery!
 
-
 Time to start collaborating with the projects I'm learning this for!
